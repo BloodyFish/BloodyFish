@@ -19,6 +19,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=BloodyFish&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=BloodyFish&icon=4&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=BloodyFish&icon=4&color=12&hide_border=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
