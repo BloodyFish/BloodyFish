@@ -1,4 +1,7 @@
-# 💫 About Me:
+# 👋 Hi, I'm Ethan!
+`👨‍💻 Programmer`
+<br />
+
 🔭 I’m currently working on [UnityVoxelEngine](https://github.com/BloodyFish/UnityVoxelEngine)<br>📫 How to reach me ethan.meyerowitz@gmail.com
 
 
