@@ -2,6 +2,8 @@
 `👨‍💻 Programmer`
 <br />
 
+I am a passionate and motivated individual who enjoys programming, math, and problem solving. I started off as a self taught programmer, and am proficient in the C#, Java, and Python programming languages. I have a wide variety of programming projects in my portfolio, ranging from games published on itch.io to open source GitHub projects that anyone can collaborate on. In my free time I enjoy learning new programming skills, experimenting with different Python libraries, and developing different projects inside of the Unity game engine. I also like experimenting and having fun; most of my programming projects stemmed from curiosity and the excitement to create something new after being inspired by others.
+
 🔭 I’m currently working on [UnityVoxelEngine](https://github.com/BloodyFish/UnityVoxelEngine)<br>📫 How to reach me ethan.meyerowitz@gmail.com
 
 
